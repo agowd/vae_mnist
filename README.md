@@ -27,6 +27,6 @@ Clone this repository and ensure you have the required dependencies installed.
 - Matplotlib
 
 ```bash
-git clone <repo-link>
+git clone (https://github.com/agowd/vae_mnist.git)
 cd vae-mnist
 pip install -r requirements.txt
